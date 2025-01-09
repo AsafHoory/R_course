@@ -5,7 +5,7 @@ I used the `mean()` function to calculate the average
 #this is an R code example
 
 df <- data.farme(x = c(1,2,3), y = 4,5,6))
-print(df)```
+print(df)
 
 
 
