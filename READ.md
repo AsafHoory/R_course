@@ -7,5 +7,6 @@ I used the `mean()` function to calculate the average
 df <- data.farme(x = c(1,2,3), y = 4,5,6))
 print(df)
 
+![Descriptive Plot](Rplot.pdf)
 
 
