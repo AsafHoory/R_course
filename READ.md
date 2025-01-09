@@ -1,13 +1,10 @@
 # R Course Repository  
 ## This repository contains an analysis of the Stroop experiment  
-I used the `mean()` function to calculate the average 
-```r
-#this is an R code example
+This repository includes R codes for results analysis of the Stroop experiment
+Descriptive results are shown visually
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/a402f16e-c4f9-4ca0-9060-327e06cfc693" />
 
-df <- data.farme(x = c(1,2,3), y = 4,5,6))
-print(df)
 
-[Download Descriptive Plot (PDF)](Rplot.pdf)
 
 
 
