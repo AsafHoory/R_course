@@ -1,4 +1,4 @@
-#.csv
-#.pdf
-#.Rhistory
+﻿*.csv
+*.pdf
+*.Rhistory
 /data.stroop/
